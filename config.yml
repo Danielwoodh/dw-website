@@ -7,9 +7,11 @@ params:
   defaultTheme: dark
   disableThemeToggle: true
   enableEmoji: true
+  ShowCodeCopyButtons: true
+  author: "Daniel Woodhall"
 
   homeInfoParams:
-    Title: Hey, I'm Dan wave
+    Title: Hey, I'm Dan 👋
     Content:  I'm an enthusiastic data scientist currently working to improve decarbonisation efforts across the UK.
 
   socialIcons:
@@ -17,6 +19,17 @@ params:
       url: "https://github.com/Danielwoodh"
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/daniel-woodhall/"
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: posts
+      name: Blog
+      url: /posts/
+      weight: 20
 
 outputs:
   home:
