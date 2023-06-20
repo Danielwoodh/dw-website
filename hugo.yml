@@ -1,0 +1,29 @@
+baseURL: 'https://danielwoodh.github.io/dw-website/'
+languageCode: en-us
+title: Daniel Woodhall
+theme: PaperMod
+
+params:
+    homeInforParams:
+    Title: "Hey, I'm Dan \U0001F44B"
+    Content: I'm an enthusiastic data scientist currently working to improve decarbonisation efforts.
+    socialIcons:
+    - name: GitHub
+        url: https://github.com/Danielwoodh
+    - name: LinkedIn
+        url: https://www.linkedin.com/in/daniel-woodhall/
+
+menu:
+    main:
+    - identifier: Home
+        name: Home
+        url: /
+        weight: 10
+    - identifier: Posts
+        name: Posts
+        url: /posts/
+        weight: 20
+    - identifier: Contents
+        name: Contents
+        url: https://danielwoodh.github.io/dw-website/Contents
+        weight: 10
