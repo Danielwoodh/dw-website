@@ -1,29 +1,25 @@
-baseURL: 'https://danielwoodh.github.io/dw-website/'
+baseURL: ''
 languageCode: en-us
-title: Daniel Woodhall
+title: Joel's Portfolio
 theme: PaperMod
 
 params:
-    homeInforParams:
-    Title: "Hey, I'm Dan \U0001F44B"
-    Content: I'm an enthusiastic data scientist currently working to improve decarbonisation efforts.
+    homeInfoParams:
+    Title: "Hey, I’m Joel \U0001F44B"
+    Content: I am a Front-end Engineer & Technical Writer. I enjoy creating interactive solutions with JavaScript. On my blog, I write about code (mostly JavaScript and React) and everything I learn. I’m actively exploring the world of web3 and blockchain technology.
     socialIcons:
-    - name: GitHub
-        url: "https://github.com/Danielwoodh"
-    - name: LinkedIn
-        url: "https://www.linkedin.com/in/daniel-woodhall/"
+    - name: github
+        url: https://github.com/Danielwoodh
+    - name: linkedin
+        url: https://www.linkedin.com/in/daniel-woodhall/
 
 menu:
     main:
-    - identifier: Home
+    - identifier: home
         name: Home
         url: /
         weight: 10
-    - identifier: Posts
-        name: Posts
+    - identifier: posts
+        name: Blog
         url: /posts/
         weight: 20
-    - identifier: Contents
-        name: Contents
-        url: "https://danielwoodh.github.io/dw-website/Contents"
-        weight: 10
