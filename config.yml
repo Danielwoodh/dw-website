@@ -12,7 +12,7 @@ params:
     Content:  I'm an enthusiastic data scientist currently working to improve decarbonisation efforts across the UK.
 
   socialIcons:
-    - name: "GitHub"
+    name: "GitHub"
     url: "https://github.com/Danielwoodh"
 
 outputs:
