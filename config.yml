@@ -41,11 +41,11 @@ menu:
       weight: 20
     - identifier: archive
       name: Archive
-      url: /archive.md
+      url: /archive
       weight: 30
     - identifier: search
       name: Search
-      url: /search.md
+      url: /search
       weight: 40
 
 outputs:
