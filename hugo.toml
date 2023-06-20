@@ -1,4 +1,4 @@
-baseURL = 'https://Danielwoodh.github.io/dw-website/'
+baseURL = 'https://danielwoodh.github.io/dw-website/'
 languageCode = 'en-us'
 title = 'D Woodhall Personal Website'
 theme = 'PaperMod'
