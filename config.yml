@@ -5,8 +5,8 @@ theme: PaperMod
 
 params:
     homeInfoParams:
-    Title: "Hey, I’m Joel \U0001F44B"
-    Content: I am a Front-end Engineer & Technical Writer. I enjoy creating interactive solutions with JavaScript. On my blog, I write about code (mostly JavaScript and React) and everything I learn. I’m actively exploring the world of web3 and blockchain technology.
+    Title: "Hey, I’m Dan \U0001F44B"
+    Content: I'm an enthusiastic data scientist currently working to assist in decarbonisation efforts.
     socialIcons:
     - name: github
         url: https://github.com/Danielwoodh
