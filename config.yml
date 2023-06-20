@@ -13,7 +13,9 @@ params:
 
   socialIcons:
     - name: "GitHub"
-    url: "https://github.com/Danielwoodh"
+      url: "https://github.com/Danielwoodh"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/daniel-woodhall/"
 
 outputs:
   home:
