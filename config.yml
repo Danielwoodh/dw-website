@@ -11,6 +11,6 @@ params:
         Title: Hey, I'm Dan wave
         Content:  I'm an enthusiastic data scientist currently working to improve decarbonisation efforts across the UK.
 
-    socialIcons:
-        - name: "GitHub"
-        url: "https://github.com/Danielwoodh"
+    # socialIcons:
+    #     - name: "GitHub"
+    #     url: "https://github.com/Danielwoodh"
