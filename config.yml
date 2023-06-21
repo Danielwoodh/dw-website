@@ -39,14 +39,18 @@ menu:
       name: Blog
       url: /posts/
       weight: 20
+    - identifier: notes
+      name: Notes
+      url: /notes/
+      weight: 30
     - identifier: archive
       name: Archive
       url: /archive
-      weight: 30
+      weight: 40
     - identifier: search
       name: Search
       url: /search
-      weight: 40
+      weight: 50
 
 outputs:
   home:
